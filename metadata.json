@@ -1,0 +1,6 @@
+{
+  "name": "Spice Garden Restaurant",
+  "description": "An elevated fine-dining restaurant website for Spice Garden Restaurant featuring heirloom Indian and Indo-Chinese cuisine, interactive menu ordering, special offers, photo gallery, and online table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
